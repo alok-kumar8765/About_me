@@ -47,7 +47,7 @@
       <img src="http://heroku-badge.herokuapp.com/?app=heroku-badge&root=projects.html" alt="Heroku Badge"/>
     </a>
     <a href="https://gitlab.com/alok-techqware.com">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="Gitlab Badge"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="Gitlab Badge" width="40" height="40"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=alok-techqware&style=flat-square&color=blue" alt=""/>
 
