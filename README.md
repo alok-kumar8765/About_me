@@ -16,9 +16,10 @@
 
      ALOK KUMAR KAUSHAL
      
-## Currently Working : 
+## Previous Company : 
 
-     Techqware Pvt Ltd
+     Techqware Technologies Pvt Ltd - Noida
+     [<small> <b>Aug 2021 - May 2023 </b></small>]
      
 ## Key Skills : 
    ### <ul>
@@ -46,11 +47,7 @@
     <a href="https://alok-kumar.herokuapp.com/">
       <img src="http://heroku-badge.herokuapp.com/?app=heroku-badge&root=projects.html" alt="Heroku Badge"/>
     </a>
-    <a href="https://gitlab.com/alok-techqware.com">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="Gitlab Badge" width="40" height="40"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=alok-techqware&style=flat-square&color=blue" alt=""/>
-
+    
   </div>
  
  ## Languages and Tools : 
@@ -85,6 +82,6 @@
 </div>
 <b>About My Projects : </b> <a href='https://lucifer8765.pythonanywhere.com/'>Click here.</a><br><br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alok-techqware&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-techqware&layout=compact&theme=vision-friendly-dark)](https://github.com/alok-techqware/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-kumar8765&layout=compact&theme=vision-friendly-dark)](https://github.com/alok-kumar8765/github-readme-stats)
 
 ``` https://github.com/devicons/devicon/tree/master/icons ```
