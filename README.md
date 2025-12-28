@@ -1,6 +1,223 @@
 # 💫 About Me:
-<div id="header" align="center"><br>  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br></div><br><div align="center"><br>  <h1><br>    hey there<br>    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>  </h1><br><br>  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/><br></div><br><br># About Me<br><br>## Name : <br><br>     ALOK KUMAR KAUSHAL<br>     <br>## Previous Company : <br><br>     Techqware Technologies Pvt Ltd - Noida<br>     [<small> <b>Aug 2021 - May 2023 </b></small>]<br>     <br>## Key Skills : <br>   ### <ul><br>  <li> Python </li><br>  <li>  Django</li><br>  <li>  Django Rest API</li><br>  <li>  Pandas</li><br>  <li>  Numpy</li><br>  <li>  MatplotLib </li><br>  <li>  Selenium </li><br>  <li>  Robot Framework </li><br>  <li>  Docker </li><br>  <li>  Git </li><br>  <li>  Heroku </li><br>  <li>  Swagger Documentation </li><br>  </ul><br>  <br>## Links :<br>  <div id="badges"><br>    <a href="https://www.linkedin.com/in/alok-kumar-kaushal-a07402100/"><br>      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>    </a><br>    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/><br>    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/><br>    <a href="https://alok-kumar.herokuapp.com/"><br>      <img src="http://heroku-badge.herokuapp.com/?app=heroku-badge&root=projects.html" alt="Heroku Badge"/><br>    </a><br>    <br>  </div><br> <br> ## Languages and Tools : <br><div><br><!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; --><br>  <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; --><br><!--   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp; --><br><!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; --><br>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"  title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;  <br>  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker"  alt="docker" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php"  alt="Php" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis"  alt="Redis" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress"  alt="Wordpress" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;<br><br></div><br><b>About My Projects : </b> <br>``` https://github.com/devicons/devicon/tree/master/icons ```<br>
+<div id="header" align="center"><br>  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
+</div><br>
+<div align="center"><br>  
+  <h1><br>    hey there<br>    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>  </h1><br><br>  
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/><br>
+</div><br><br>
+<h1> About Me</h1><br><br>
+<h2>Name : </h2><br><br>     ALOK KUMAR KAUSHAL<br><br>
+<p>Hi, I’m a Python Software Developer with 1.9 years of professional experience in building scalable web applications using Django and Django REST Framework.
+I have hands-on experience in designing backend architectures, developing RESTful APIs, and working with relational databases. I enjoy writing clean, maintainable code and building solutions that solve real-world problems.
 
+I have worked on multiple production-level projects across domains such as booking platforms, e-commerce, campaign systems, and e-learning platforms. I am comfortable working in team environments and contributing across the full development lifecycle—from requirement gathering to deployment.</p>
+
+📧 **Email:** [alokkaushal42@gmail.com](mailto:alokkaushal42@gmail.com)
+📞 **Phone:** +91-8765276233
+
+---
+## 💼 Experience
+
+### **Software Developer (Python)**
+
+**TechQWare Technologies Pvt. Ltd. — Noida**
+**August 2021 – May 2023**
+
+* Worked as a Python Developer with a strong focus on **Django Framework** and **Django REST APIs**.
+* Implemented **MVT architecture** and followed best practices for scalable backend development.
+* Designed and developed **RESTful APIs** with authentication mechanisms such as **JWT**.
+* Actively involved in building **CRUD operations** using **Django ORM**.
+* Participated in **requirement analysis, solution design, and backend optimization**.
+* Collaborated with frontend and mobile teams to integrate APIs efficiently.
+* Worked with databases like **MySQL and SQLite**.
+* Gained experience in deploying and maintaining applications on **Linux and Windows environments**.
+
+---
+
+## 🛠️ Technical Skills
+
+### **Backend & Frameworks**
+
+* Python
+* Django
+* Django REST Framework
+* REST APIs
+* JWT Authentication
+
+### **Databases**
+
+* MySQL
+* SQLite
+
+### **Background Tasks & Caching**
+
+* Celery
+* Redis
+
+### **Data & Utilities**
+
+* Pandas
+* NumPy
+* Matplotlib
+* Web Scraping
+
+### **Third-Party Integrations**
+
+* Twilio
+* SendGrid
+
+### **Tools & Platforms**
+
+* Swagger / Postman
+* GitHub / GitLab
+* Heroku
+* AWS (basic)
+
+---
+
+## 📌 Additional Experience
+
+* Developed **7 projects**:
+
+  * **5 projects** using **Python & Django**
+  * **1 project** using **.NET**
+  * **1 project** using **PHP**
+* Experience working on both **monolithic applications and REST API–based systems**
+
+---
+
+<div id="badges"><br>    
+  <a href="https://www.linkedin.com/in/alok-kumar-kaushal-a07402100/"><br>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>   
+  </a><br>    
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/><br>    
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/><br>    
+  <a href="https://alok-kumar.herokuapp.com/"><br>      
+    <img src="http://heroku-badge.herokuapp.com/?app=heroku-badge&root=projects.html" alt="Heroku Badge"/><br>    
+  </a><br><br>  
+</div><br> <br> 
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; --><br>  <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp; --><br><!--   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp; --><br><!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; --><br>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"  title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;  <br>  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker"  alt="docker" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php"  alt="Php" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis"  alt="Redis" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress"  alt="Wordpress" width="40" height="40"/>&nbsp;<br>  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;<br><br></div>
+
+# About My Projects :
+Here’s a **clean, professional, and well-documented rewrite** suitable for your **GitHub README → “About Me / Projects”** section.
+I’ve fixed grammar, improved clarity, and formatted it so recruiters and developers can quickly understand your work.
+
+---
+
+## 🚀 Projects Overview
+
+### 1. **Peppermynt**
+
+**Team Size:** 5
+**Live URL:** [https://peppermynt.ai/](https://peppermynt.ai/)
+
+**Description:**
+Peppermynt is a unified booking platform for **restaurants, cinemas, and hotels**.
+My primary responsibility was handling the **admin-side development**, ensuring a **user-friendly UI** for owners/admins to manage bookings and data efficiently.
+In parallel, I developed **Django REST APIs** consumed by **iOS and Android applications**, enabling users to book hotels, restaurants, and cinemas directly from their mobile devices.
+
+**Key Responsibilities:**
+
+* Designed and developed the admin dashboard
+* Built REST APIs for mobile applications
+* Ensured smooth integration between backend and frontend
+* Focused on usability and performance optimization
+
+**Technologies Used:**
+Django, Django REST Framework, Python, Swagger, Jinja Templates, SQLite3, SendGrid, Twilio, 2FactorSMS, Postman
+
+---
+
+### 2. **HDFC Women’s Day Campaign**
+
+**Team Size:** 3
+**Live URL:** [http://salaamdilsey-iwd.in/](http://salaamdilsey-iwd.in/)
+
+**Description:**
+This project was developed for **HDFC Bank** as a **Women’s Day digital campaign**.
+Users upload their photos, and the system generates a **mosaic image** that can be **downloaded or shared**.
+The platform also stores user metadata such as **IP address, location, and sharing details** for analytics and tracking.
+
+**Key Responsibilities:**
+
+* Image processing and mosaic generation
+* User data tracking and storage
+* Campaign performance data handling
+
+**Technologies Used:**
+Django, Python, PIL (Python Imaging Library), Jinja Templates, MySQL, SQLite3, SendGrid, Twilio WhatsApp API, 2FactorSMS
+
+---
+
+### 3. **Techqware Website Migration & Update**
+
+**Team Size:** 3
+**Live URL:** [https://techqware.com/](https://techqware.com/)
+
+**Description:**
+This project involved migrating an existing **WordPress website** to the **Django framework** to make it fully dynamic.
+The new system allows admins to post job openings, while users can browse and apply for jobs online.
+
+**Key Responsibilities:**
+
+* Migrated WordPress content to Django
+* Developed dynamic job posting and application features
+* Implemented admin and user workflows
+
+**Technologies Used:**
+Django, Python, Jinja Templates, SQLite3, SendGrid
+
+---
+
+### 4. **BION**
+
+**Team Size:** 4
+**Live URL:** [https://bion-technology.com.sg/](https://bion-technology.com.sg/)
+
+**Description:**
+BION is an **e-commerce and product demo platform** for a China-based company.
+Users can explore products on the website and submit inquiries if interested.
+Sales team members schedule demos based on user preferences.
+Each user is assigned a **QR code during registration**, which the sales team scans after the client meeting for verification and tracking.
+
+**Key Responsibilities:**
+
+* User registration and QR code generation
+* Demo scheduling workflow
+* Sales tracking and verification system
+
+**Technologies Used:**
+Django, Python, Jinja Templates, SQLite3, SendGrid
+
+---
+
+### 5. **LearningGem (E-Learning Platform)**
+
+**Team Size:** 4
+
+**Description:**
+LearningGem is a **full-featured e-learning platform** with advanced functionality such as:
+
+* User progress tracking
+* Course purchase and management
+* Certificate generation and download
+* Dedicated **Teacher Panel** for course and content uploads
+* **Student Panel** for learning and profile management
+
+Upon successful course completion, students automatically receive certificates.
+
+**Key Responsibilities:**
+
+* Backend architecture and API development
+* Course and certificate management system
+* Real-time features and background task processing
+* Payment gateway integration
+
+**Technologies Used:**
+Python, Django, Django REST Framework, Django Channels, Celery, Django Signals, MySQL, SQLite3, Stripe, Swagger Documentation, SendGrid, Twilio
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61585523332277) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@remdlqbx-the-scripter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokkushal42@gmail.com) 
