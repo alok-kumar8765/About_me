@@ -14,7 +14,7 @@
 
 ---
 
-<p>Hi, I’m a Python Software Developer with 1.9 years of professional experience in building scalable web applications using Django and Django REST Framework.
+<p>Hi, I’m a Python Software Developer with 3 years of professional experience in building scalable web applications using Django and Django REST Framework.
 I have hands-on experience in designing backend architectures, developing RESTful APIs, and working with relational databases. I enjoy writing clean, maintainable code and building solutions that solve real-world problems.
 
 I have worked on multiple production-level projects across domains such as booking platforms, e-commerce, campaign systems, and e-learning platforms. I am comfortable working in team environments and contributing across the full development lifecycle—from requirement gathering to deployment.</p>
